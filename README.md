@@ -14,7 +14,6 @@ El proyecto cubre el periodo **2014–2023** y analiza cómo se utiliza el siste
   - tipo de suscripción  
   - tipo de bicicleta (clásica vs eléctrica)  
   - duración del viaje  
-- Construir un modelo de datos en esquema estrella y un dashboard que pueda servir como ejemplo de portafolio en Power BI.
 
 ---
 
@@ -241,8 +240,6 @@ RETURN
         "180 min - 300 min"
     )
 ~~~
-
-*(Puedes ajustar los textos de los rangos según prefieras.)*
 
 ---
 
