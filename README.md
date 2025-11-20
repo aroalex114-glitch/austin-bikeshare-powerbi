@@ -164,7 +164,7 @@ En **Power Query** se realizó:
 **Tabla de hechos**
 
 - `Hechos`  
-  - Viaje a nivel granular (`id_viaje`).  
+  - Registro del viaje (`id_viaje`).  
   - Contiene métricas como `duracion_min`, `id_bici`, `tipo_bici`, `ruta`, fechas y horas.
 
 **Tablas de dimensiones**
