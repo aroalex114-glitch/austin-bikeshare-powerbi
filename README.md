@@ -291,3 +291,7 @@ Algunos hallazgos que se pueden obtener del dashboard:
 - `austin_bikeshare_model.pbix` – archivo de Power BI con el modelo y el dashboard.  
 - `sql/limpieza_bikeshare.sql` – script SQL usado para la limpieza y transformación inicial.  
 - `img/` – capturas de pantalla de las páginas del dashboard (General, Patrones del sistema, Duración y tipo de bici).
+
+## Descarga del Archivo Power BI.
+Puedes descargar el pbix desde este enlace 
+[Descargar archivo Power BI](https://drive.google.com/file/d/1gfQPPvyzLxI96xcK-uUy_k-99Dv0vitN/view?usp=drive_link)
